@@ -1,0 +1,12 @@
+{
+    "urlTelechargement":  "https://github.com/Chris21140/Pizza_Manager/releases/download/v1.2.3/Pizza_Manager_Setup_1.2.3.exe",
+    "version":  "1.2.3",
+    "datePublication":  "2026-04-13",
+    "versionMinimaleRequise":  "1.0.0",
+    "tailleFichier":  13548158,
+    "critique":  false,
+    "notesVersion":  [
+                         "Version:1.2.4 ",
+                         "* Mise à jour automatique sur Github"
+                     ]
+}
